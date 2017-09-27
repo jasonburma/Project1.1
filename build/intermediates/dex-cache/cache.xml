@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_507e58f9a05a785dae5f4afecdd73659a20124c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02e8e35e90352aa29b4918fd952e43b60249aabe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\f467be71f64bf2cf056bde93a882c27918971c85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f16eb130e96a1dfc5ce2114ad32cc09b6be6874e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\5fdcf5fca61ddef7a829b4c238c9d7ad014c1b3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9316762063d1422fd13ffbeda848e98a3ba68d18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\36631d427fdfeca237d3912d03a6b8581577f992\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea990195067ab77148abdf06fa916e24bfdfc223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\5011f4b60b0f6a839cd45dd258662f48ba14eb90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1e3adac6462c2facc4c508e8bf1b43381c02489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\10dda82ea186e1b07c4c68b642828cdcbc968fc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de67e6eff9984a3ae6730a5d8f5f4ce23be0df3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\a7e4c8aaef5a733d9af1e7cdbe13bf7c91b017e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25745265114bf26feca7e74483b3efa8ff45e01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_fa0c8a69ba4f6a54470c9078e373299fe6fb7d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\e10c3e96b1a198dce8ebb32ff953c7e88f5d7e57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33b02d440f2bce4017c109c6bddfc4fbf6270148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\d94a6db84b606d9d46c8b320822e593b1b8acc80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b1406ff47c92446671efc7c5b5d2df4322091fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b11e0657378597117d92c3758642879cbcebe7f3">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58e70ad0cb124fd7501002b19a3a95e22e97e797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\df37edbd172b1ceb6c7160307fc7069e14ea229f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d263f9a7301360152c9a6b26b8350ad2b152b950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\f148f0ec50357626c9bd710e42776f78299aef55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5c7af3ed16097d4cf8af8cea5d10c498d037a73\classes.dex" />
+    </item>
+
+</items>
