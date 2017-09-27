@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_eb62cbdf287d7e448653729b3c000d82aba57c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Jason\.android\build-cache\5fdcf5fca61ddef7a829b4c238c9d7ad014c1b3e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,11 +111,47 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-3.5.0_b4192dcf8b0e4994c39ef2dea4df89bd3d450857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_eb41d3d6c5a5d5cd7e2ba8e5056cbca6d11b269c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\049721d14a71087c2a1a09993e6c0c8f45630232\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c274747fc91422b7033e148251a1d01ec62637fe">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b63d45e8f38311f4ba03e0fc6c34e8750daee5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\0ad2b9acc490285840656ff9f365123f655da709\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e92ed67fc493c7c20dec4af28e029487087e590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="5037d01a7a19fb5f5d857720479728ac5a8347a8">
+        sha1="d11e1c5f62fa5e79e4e49411883bdbdadce94f35">
         <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58e70ad0cb124fd7501002b19a3a95e22e97e797\classes.dex" />
     </item>
     <item
