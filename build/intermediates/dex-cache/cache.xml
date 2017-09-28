@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\4f3f87a01f8cdbb09cbb1607878c4b679e1b19ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_823c45627be4ed0084d9bcc5e12eb80510ff6373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Jason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="true"
         optimize="true"
@@ -75,6 +84,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\58edb4b6df85635b4d05330dfbf710a61847fdf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fd3407b0687bca5de49063212228aefc033fc1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Jason\.android\build-cache\a7e4c8aaef5a733d9af1e7cdbe13bf7c91b017e2\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -90,6 +108,15 @@
         revision="26.0.1"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_fa0c8a69ba4f6a54470c9078e373299fe6fb7d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jason\.android\build-cache\e91a51ef19c40b84dc1dcf035c23f8d1939c0a9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9997c298effc3b2e2b28678d0dd04c217154c32f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -151,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="d11e1c5f62fa5e79e4e49411883bdbdadce94f35">
+        sha1="f0e894d326414d172fea1195f0df8a9e1b38a4e7">
         <dex dex="C:\Users\Jason\AndroidStudioProjects\BootifulBulldawg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_58e70ad0cb124fd7501002b19a3a95e22e97e797\classes.dex" />
     </item>
     <item
