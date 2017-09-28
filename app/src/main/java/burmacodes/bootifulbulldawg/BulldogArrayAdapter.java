@@ -36,7 +36,7 @@ public class BulldogArrayAdapter extends BaseAdapter {
     public long getItemId(int position) {return position; }
 
     @Override
-    public View getView(int position, View convertVoew, ViewGroup parent) {
+    public View getView(int position, View convertView, ViewGroup parent) {
         View rowView = mInflater.inflate(R.layout.bulldog_cell, parent, false);
 
         TextView name = (TextView) rowView.findViewById(R.id.name_label);
